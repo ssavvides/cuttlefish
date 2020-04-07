@@ -1,6 +1,5 @@
 
-![alt text](./resources/cuttlefish.png "Cuttlefish")
-
+<img src="resources/cuttlefish.png" alt="Cuttlefish" width="500">
 
 Cuttlefish is a system that makes Partial Homomorphic Encryption practical. 
 Cuttlefish uses the abstraction of Secure Data Types to enable a set of compilation techniques 
